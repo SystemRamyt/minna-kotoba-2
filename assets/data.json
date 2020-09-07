@@ -4005,7 +4005,7 @@
         "hiragana" : "ビル",
         "kanji" : "ビル",
         "english" : "building",
-        "myanmar" : "အဆောက်အဦး"
+        "Indonesia" : "Gedung"
       },
       {
         "no": "10/24",
@@ -4013,7 +4013,8 @@
         "hiragana" : "こうえん",
         "kanji" : "公園",
         "english" : "park",
-        "myanmar" : "ပန်းခြံ၊ ဥယျာဥ်"
+        "Indonesia" : "Taman"
+   
       },
       {
         "no": "10/25",
@@ -4021,15 +4022,14 @@
         "hiragana" : "きっさてん",
         "kanji" : "喫茶店",
         "english" : "coffee shop",
-        "myanmar" : "ကော်ဖီဆိုင်၊ လက်ဖက်ရည်ဆိုင်"
-      },
+        "Indonesia" : "Kedai Kopi"
       {
         "no": "10/26",
         "romaji" : "hon'ya",
         "hiragana" : "ほんや",
         "kanji" : "本屋",
         "english" : "bookstore",
-        "myanmar" : "စာအုပ်ဆိုင်"
+        "Indonesia" : "Toko Buku"
       },
       {
         "no": "10/27",
@@ -4037,7 +4037,7 @@
         "hiragana" : "～や",
         "kanji" : "～屋",
         "english" : "~ store",
-        "myanmar" : "~ဆိုင်"
+        "Indonesia" : "Toko"
       },
       {
         "no": "10/28",
